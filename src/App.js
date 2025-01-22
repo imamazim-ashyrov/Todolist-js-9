@@ -5,6 +5,8 @@ const App = () => {
   return (
     <center>
       <EasyTodolist/>
+      <h1>Hello World</h1>
+      <h1>Welcome GitHub!</h1>
     </center>
   )
 }
